@@ -1,0 +1,96 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner Yoga",
+      "slug": "beginner-yoga",
+      "description": "This course introduces the basics of yoga for beginners, focusing on flexibility, breath control, and relaxation.",
+      "price": 99,
+      "instructor": "John Doe",
+      "image": "/yoga.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Advanced Weightlifting",
+      "slug": "advanced-weightlifting",
+      "description": "Take your weightlifting to the next level with our advanced course. Focuses on technique, strength, and endurance.",
+      "price": 899,
+      "instructor": "Jane Smith",
+      "image": "/Advanced Weightlifting.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 3,
+      "title": "HIIT Training",
+      "slug": "hiit-training",
+      "description": "A high-intensity interval training program designed to burn fat and build muscle in a short amount of time.",
+      "price": 499,
+      "instructor": "Alex Johnson",
+      "image": "/HIIT Training.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "Pilates for Core Strength",
+      "slug": "pilates-core-strength",
+      "description": "Strengthen your core with our Pilates program, focusing on stability, posture, and overall body control.",
+      "price": 299,
+      "instructor": "Sarah Lee",
+      "image": "/Pilates for Core Strength.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 5,
+      "title": "Cardio Kickboxing",
+      "slug": "cardio-kickboxing",
+      "description": "A cardio-focused kickboxing course that combines fun, fitness, and technique for a full-body workout.",
+      "price": 449,
+      "instructor": "Mike Brown",
+      "image": "/Cardio Kickboxing.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "title": "Bodyweight Bootcamp",
+      "slug": "bodyweight-bootcamp",
+      "description": "No equipment necessary! This bootcamp uses your own body weight to improve strength and endurance.",
+      "price": 299,
+      "instructor": "Chris Green",
+      "image": "/Bodyweight Bootcamp.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 7,
+      "title": "Powerlifting Basics",
+      "slug": "powerlifting-basics",
+      "description": "Learn the fundamentals of powerlifting, focusing on proper form for squats, deadlifts, and bench press.",
+      "price": 599,
+      "instructor": "Daniel Black",
+      "image": "/Powerlifting Basics.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 8,
+      "title": "Zumba Dance Fitness",
+      "slug": "zumba-dance-fitness",
+      "description": "Dance your way to fitness with Zumba, a fun and energetic class set to upbeat music.",
+      "price": 199,
+      "instructor": "Maria Torres",
+      "image": "/Zumba Dance Fitness.jpg",
+      "isFeatured": false
+    },
+      
+
+    {
+      "id": 9,
+      "title": "Core & Abs Workout",
+      "slug": "core-abs-workout",
+      "description": "A specialized class targeting the core muscles to build strength and improve stability.",
+      "price": 499,
+      "instructor": "James Wilson",
+      "image": "/Core & Abs Workout.jpg",
+      "isFeatured": false
+    }
+  ]
+}
